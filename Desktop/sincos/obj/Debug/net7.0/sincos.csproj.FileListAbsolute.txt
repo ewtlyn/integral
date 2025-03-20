@@ -1,0 +1,14 @@
+/Users/santamuerte/Desktop/sincos/bin/Debug/net7.0/sincos
+/Users/santamuerte/Desktop/sincos/bin/Debug/net7.0/sincos.deps.json
+/Users/santamuerte/Desktop/sincos/bin/Debug/net7.0/sincos.runtimeconfig.json
+/Users/santamuerte/Desktop/sincos/bin/Debug/net7.0/sincos.dll
+/Users/santamuerte/Desktop/sincos/bin/Debug/net7.0/sincos.pdb
+/Users/santamuerte/Desktop/sincos/obj/Debug/net7.0/sincos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santamuerte/Desktop/sincos/obj/Debug/net7.0/sincos.AssemblyInfoInputs.cache
+/Users/santamuerte/Desktop/sincos/obj/Debug/net7.0/sincos.AssemblyInfo.cs
+/Users/santamuerte/Desktop/sincos/obj/Debug/net7.0/sincos.csproj.CoreCompileInputs.cache
+/Users/santamuerte/Desktop/sincos/obj/Debug/net7.0/sincos.dll
+/Users/santamuerte/Desktop/sincos/obj/Debug/net7.0/refint/sincos.dll
+/Users/santamuerte/Desktop/sincos/obj/Debug/net7.0/sincos.pdb
+/Users/santamuerte/Desktop/sincos/obj/Debug/net7.0/sincos.genruntimeconfig.cache
+/Users/santamuerte/Desktop/sincos/obj/Debug/net7.0/ref/sincos.dll
